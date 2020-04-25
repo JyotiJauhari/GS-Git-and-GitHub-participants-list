@@ -8,4 +8,4 @@
 
 ## Participants
 
-1. 
+1. [Rithika Hebbar](https://github.com/rithika-hebbar)
