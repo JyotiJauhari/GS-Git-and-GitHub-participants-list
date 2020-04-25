@@ -9,5 +9,4 @@
 ## Participants
 
 1. [Jyoti Jauhari](https://github.com/JyotiJauhari)
-
-..................................................
+2. [Rithika Hebbar](https://github.com/rithika-hebbar)
