@@ -8,4 +8,4 @@
 
 ## Participants
 
-1. 
+1. [Jyoti Jauhari](https://github.com/JyotiJauhari)
